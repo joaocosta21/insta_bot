@@ -1,2 +1,2 @@
 # insta_bot
-contests bot
+  insta contests bot
