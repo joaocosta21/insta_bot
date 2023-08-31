@@ -12,7 +12,9 @@ Instagram api to make comments on a specific Instagram post using [Instagrapi](h
 2. Choose the link of the post you want to comment on.
 3. Edit what you want to comment.
 4. Run the code with
-```python3 main.py```
+```
+python3 main.py
+```
    
 ## Disclaimer
 
